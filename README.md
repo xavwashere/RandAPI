@@ -1,2 +1,2 @@
-# RandAPI
-A random string generator API. I don't know why I made this.
+# How to use
+idk yet, lemme make it first lmfao
